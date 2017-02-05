@@ -1,5 +1,39 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
+#menu-j .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #27aae0;
+}
+#menu-j .mbr-navbar__section {
+  background: #27aae0;
+}
+#menu-j .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-j .mbr-brand__name a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
+#menu-m .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-m.mbr-navbar--stuck .mbr-navbar__section {
+  background: #27aae0;
+}
+#menu-m .mbr-navbar__section {
+  background: #27aae0;
+}
+#menu-m .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-m .mbr-brand__name a {
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+}
+
 #menu-1 .mbr-brand__name {
   font-size: 16px;
 }
