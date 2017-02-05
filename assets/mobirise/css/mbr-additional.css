@@ -19,3 +19,9 @@
 #header4-2 H1 {
   color: #ffffff;
 }
+#msg-box3-g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
